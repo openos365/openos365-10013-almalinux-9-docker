@@ -1,5 +1,4 @@
-FROM openanolis/anolisos:7.9-x86_64
-
+FROM almalinux:9
 # 1
 COPY files/ /tmp/files/
 
