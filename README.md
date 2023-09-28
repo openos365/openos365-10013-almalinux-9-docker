@@ -37,10 +37,14 @@ podman pull docker.io/openos365/openos365-10013-almalinux-9-docker-main-root:lat
 podman run -it docker.io/openos365/openos365-10013-almalinux-9-docker-main-root:latest
 podman run -it docker.io/openos365/openos365-10013-almalinux-9-docker-main-root:latest /sbin/init
 
-podman run -it \
---cap-add NET_RAW \
+sudo podman run -it \
+--cap-add=ALL \
+--tmpfs /tmp \
+--tmpfs /run \
 -v /etc/resolv.conf:/etc/resolv.conf \
---net=host docker.io/openos365/openos365-10013-almalinux-9-docker-main-root:latest \
+--net=host \
+--hostname=openos365-10013-almalinux-9-docker-main-root \
+docker.io/openos365/openos365-10013-almalinux-9-docker-main-root:latest \
 /sbin/init \
 --log-level=debug
 
