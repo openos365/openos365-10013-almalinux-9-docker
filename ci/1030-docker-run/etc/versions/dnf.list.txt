@@ -327,7 +327,7 @@ libnet.x86_64                                                                   
 libnetfilter_conntrack.x86_64                                                            1.0.9-1.el9                                    @baseos   
 libnfnetlink.x86_64                                                                      1.0.1-21.el9                                   @baseos   
 libnftnl.x86_64                                                                          1.2.2-1.el9                                    @baseos   
-libnghttp2.x86_64                                                                        1.43.0-5.el9                                   @baseos   
+libnghttp2.x86_64                                                                        1.43.0-5.el9_2.1                               @baseos   
 libnl3.x86_64                                                                            3.7.0-1.el9                                    @baseos   
 libnotify.x86_64                                                                         0.7.9-8.el9                                    @appstream
 libogg.x86_64                                                                            2:1.3.4-6.el9                                  @appstream
@@ -6458,7 +6458,7 @@ gpsd-devel.x86_64                                                               
 gpsd-libs.x86_64                                                                         1:3.23.1-2.el9                                 epel      
 gpsd-minimal.x86_64                                                                      1:3.25-1.el9_2.3                               appstream 
 gpsd-minimal-clients.x86_64                                                              1:3.25-1.el9_2.3                               appstream 
-grafana.x86_64                                                                           9.0.9-3.el9_2.alma                             appstream 
+grafana.x86_64                                                                           9.0.9-4.el9_2.alma.1                           appstream 
 grafana-pcp.x86_64                                                                       5.1.1-1.el9                                    appstream 
 granatier.x86_64                                                                         22.12.3-1.el9                                  epel      
 grantlee-editor.x86_64                                                                   22.12.3-1.el9                                  epel      
@@ -9349,7 +9349,7 @@ libnfs-utils.x86_64                                                             
 libnfsidmap.i686                                                                         1:2.5.4-18.el9                                 baseos    
 libnfsidmap.x86_64                                                                       1:2.5.4-18.el9                                 baseos    
 libnftnl.i686                                                                            1.2.2-1.el9                                    baseos    
-libnghttp2.i686                                                                          1.43.0-5.el9                                   baseos    
+libnghttp2.i686                                                                          1.43.0-5.el9_2.1                               baseos    
 libnice.x86_64                                                                           0.1.19-2.el9                                   epel      
 libnice-devel.x86_64                                                                     0.1.19-2.el9                                   epel      
 libnice-gstreamer1.x86_64                                                                0.1.19-2.el9                                   epel      
