@@ -1,3 +1,4 @@
+Last metadata expiration check: 0:00:06 ago on Fri Oct 20 08:58:13 2023.
 Installed Packages
 ModemManager-glib.x86_64                                                                 1.20.2-1.el9                                   @baseos   
 NetworkManager-libnm.x86_64                                                              1:1.42.2-8.el9_2                               @baseos   
