@@ -1,3 +1,4 @@
+Last metadata expiration check: 0:00:07 ago on Sat Oct 21 17:27:16 2023.
 Installed Packages
 ModemManager-glib.x86_64                                                                 1.20.2-1.el9                                   @baseos   
 NetworkManager-libnm.x86_64                                                              1:1.42.2-8.el9_2                               @baseos   
@@ -206,6 +207,7 @@ libXtst.x86_64                                                                  
 libXv.x86_64                                                                             1.0.11-16.el9                                  @appstream
 libXxf86vm.x86_64                                                                        1.1.4-18.el9                                   @appstream
 libacl.x86_64                                                                            2.3.1-3.el9                                    @baseos   
+libaio.x86_64                                                                            0.3.111-13.el9                                 @baseos   
 libappstream-glib.x86_64                                                                 0.7.18-4.el9                                   @appstream
 libarchive.x86_64                                                                        3.5.3-4.el9                                    @baseos   
 libassuan.x86_64                                                                         2.5.5-3.el9                                    @baseos   
@@ -350,6 +352,7 @@ nss-softokn-freebl.x86_64                                                       
 nss-sysinit.x86_64                                                                       3.90.0-3.el9_2                                 @appstream
 nss-tools.x86_64                                                                         3.90.0-3.el9_2                                 @appstream
 nss-util.x86_64                                                                          3.90.0-3.el9_2                                 @appstream
+numactl-libs.x86_64                                                                      2.0.14-9.el9                                   @baseos   
 ocaml-srpm-macros.noarch                                                                 6-6.el9                                        @appstream
 openblas-srpm-macros.noarch                                                              2-11.el9                                       @appstream
 openjpeg2.x86_64                                                                         2.4.0-7.el9                                    @appstream
@@ -645,6 +648,7 @@ python3-rpm.x86_64                                                              
 python3-setuptools-wheel.noarch                                                          53.0.0-12.el9                                  @baseos   
 python3-six.noarch                                                                       1.15.0-9.el9                                   @baseos   
 python3-systemd.x86_64                                                                   234-18.el9                                     @baseos   
+qemu-img.x86_64                                                                          17:7.2.0-14.el9_2.5.alma.1                     @appstream
 qt5-srpm-macros.noarch                                                                   5.15.3-1.el9                                   @appstream
 readline.x86_64                                                                          8.1-4.el9                                      @baseos   
 redhat-rpm-config.noarch                                                                 199-1.el9.alma                                 @appstream
@@ -668,6 +672,7 @@ sound-theme-freedesktop.noarch                                                  
 source-highlight.x86_64                                                                  3.1.9-11.el9                                   @appstream
 sqlite-libs.x86_64                                                                       3.34.1-6.el9_1                                 @baseos   
 strace.x86_64                                                                            5.18-2.el9                                     @baseos   
+sudo.x86_64                                                                              1.9.5p2-9.el9                                  @baseos   
 systemd.x86_64                                                                           252-14.el9_2.3                                 @baseos   
 systemd-libs.x86_64                                                                      252-14.el9_2.3                                 @baseos   
 systemd-pam.x86_64                                                                       252-14.el9_2.3                                 @baseos   
@@ -8451,7 +8456,6 @@ libaec-devel.x86_64                                                             
 libaiff.x86_64                                                                           6.0-2.el9                                      epel      
 libaiff-devel.x86_64                                                                     6.0-2.el9                                      epel      
 libaio.i686                                                                              0.3.111-13.el9                                 baseos    
-libaio.x86_64                                                                            0.3.111-13.el9                                 baseos    
 libaio-devel.i686                                                                        0.3.111-13.el9                                 appstream 
 libaio-devel.x86_64                                                                      0.3.111-13.el9                                 appstream 
 libao.i686                                                                               1.2.0-22.el9                                   appstream 
@@ -11312,7 +11316,6 @@ numactl.x86_64                                                                  
 numactl-devel.i686                                                                       2.0.14-9.el9                                   appstream 
 numactl-devel.x86_64                                                                     2.0.14-9.el9                                   appstream 
 numactl-libs.i686                                                                        2.0.14-9.el9                                   baseos    
-numactl-libs.x86_64                                                                      2.0.14-9.el9                                   baseos    
 numad.x86_64                                                                             0.5-36.20150602git.el9                         baseos    
 numatop.x86_64                                                                           2.2-4.el9                                      baseos    
 numlockx.x86_64                                                                          1.2-22.el9                                     epel      
@@ -15288,7 +15291,6 @@ qelectrotech.x86_64                                                             
 qelectrotech-symbols.noarch                                                              0.90-1.el9                                     epel      
 qemu-ga-win.noarch                                                                       104.0.2-1.el9                                  appstream 
 qemu-guest-agent.x86_64                                                                  17:7.2.0-14.el9_2.5.alma.1                     appstream 
-qemu-img.x86_64                                                                          17:7.2.0-14.el9_2.5.alma.1                     appstream 
 qemu-kvm.x86_64                                                                          17:7.2.0-14.el9_2.5.alma.1                     appstream 
 qemu-kvm-audio-pa.x86_64                                                                 17:7.2.0-14.el9_2.5.alma.1                     appstream 
 qemu-kvm-block-curl.x86_64                                                               17:7.2.0-14.el9_2.5.alma.1                     appstream 
@@ -22830,7 +22832,6 @@ subversion-gnome.x86_64                                                         
 subversion-libs.x86_64                                                                   1.14.1-5.el9_0                                 appstream 
 subversion-perl.x86_64                                                                   1.14.1-5.el9_0                                 appstream 
 subversion-tools.x86_64                                                                  1.14.1-5.el9_0                                 appstream 
-sudo.x86_64                                                                              1.9.5p2-9.el9                                  baseos    
 sudo-python-plugin.x86_64                                                                1.9.5p2-9.el9                                  appstream 
 suil.x86_64                                                                              0.10.18-1.el9                                  epel      
 suil-devel.x86_64                                                                        0.10.18-1.el9                                  epel      
