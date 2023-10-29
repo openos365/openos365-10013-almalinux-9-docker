@@ -33,5 +33,15 @@ dbus:!::
 tss:!::
 sgx:!*::
 systemd-oom:!*::
+ssh_keys:!::
+polkitd:!::
+rtkit:!::
+geoclue:!::
+stapusr:!*::
+stapsys:!*::
+stapdev:!*::
+pipewire:!::
+flatpak:!::
+pesign:!::
 www:!::
 runner:!::
