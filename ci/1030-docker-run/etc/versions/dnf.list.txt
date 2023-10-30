@@ -9045,7 +9045,7 @@ libguestfs-bash-completion.noarch                                               
 libguestfs-inspect-icons.noarch                                                          1:1.48.4-4.el9.alma                            appstream 
 libguestfs-rescue.x86_64                                                                 1:1.48.4-4.el9.alma                            appstream 
 libguestfs-rsync.x86_64                                                                  1:1.48.4-4.el9.alma                            appstream 
-libguestfs-winsupport.x86_64                                                             9.2-1.el9                                      appstream 
+libguestfs-winsupport.x86_64                                                             9.2-2.el9_2                                    appstream 
 libguestfs-xfs.x86_64                                                                    1:1.48.4-4.el9.alma                            appstream 
 libgusb.i686                                                                             0.3.8-1.el9                                    baseos    
 libgweather.i686                                                                         40.0-3.el9                                     appstream 
