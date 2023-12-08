@@ -33,9 +33,10 @@ dbus:!::
 tss:!::
 sgx:!*::
 systemd-oom:!*::
+screen:!::
+ssh_keys:!::
 polkitd:!::
 rtkit:!::
-ssh_keys:!::
 geoclue:!::
 stapusr:!*::
 stapsys:!*::
