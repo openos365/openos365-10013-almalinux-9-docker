@@ -82,7 +82,7 @@ diffutils.x86_64                            3.7-12.el9                       @ba
 distribution-gpg-keys.noarch                1.98-1.el9                       @epel     
 dnf.noarch                                  4.14.0-8.el9.alma.1              @baseos   
 dnf-data.noarch                             4.14.0-8.el9.alma.1              @baseos   
-dnf-plugins-core.noarch                     4.3.0-11.el9_3                   @baseos   
+dnf-plugins-core.noarch                     4.3.0-11.el9_3.alma.1            @baseos   
 docbook-dtds.noarch                         1.0-79.el9                       @appstream
 docbook-style-xsl.noarch                    1.79.2-16.el9                    @appstream
 dosfstools.x86_64                           4.2-3.el9                        @baseos   
@@ -726,7 +726,7 @@ python3-dateutil.noarch                     1:2.8.1-7.el9                    @ba
 python3-dbus.x86_64                         1.2.18-2.el9                     @baseos   
 python3-distro.noarch                       1.5.0-7.el9                      @appstream
 python3-dnf.noarch                          4.14.0-8.el9.alma.1              @baseos   
-python3-dnf-plugins-core.noarch             4.3.0-11.el9_3                   @baseos   
+python3-dnf-plugins-core.noarch             4.3.0-11.el9_3.alma.1            @baseos   
 python3-docopt.noarch                       0.6.2-21.el9                     @epel     
 python3-gpg.x86_64                          1.15.1-6.el9                     @baseos   
 python3-hawkey.x86_64                       0.69.0-6.el9_3.alma.1            @baseos   
