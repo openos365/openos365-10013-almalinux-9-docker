@@ -33,6 +33,7 @@ dbus:x:81:
 tss:x:59:
 sgx:x:996:
 systemd-oom:x:995:
+screen:x:84:
 ssh_keys:x:994:
 polkitd:x:993:
 rtkit:x:172:
