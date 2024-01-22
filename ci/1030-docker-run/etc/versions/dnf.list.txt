@@ -3607,8 +3607,8 @@ gdk-pixbuf2-devel.x86_64                                                        
 gdk-pixbuf2-modules.i686                                                                 2.42.6-3.el9                                   appstream 
 gdl.x86_64                                                                               1.0.2-3.el9                                    epel      
 gdl-common.noarch                                                                        1.0.2-3.el9                                    epel      
-gdm.i686                                                                                 1:40.1-21.el9                                  appstream 
-gdm.x86_64                                                                               1:40.1-21.el9                                  appstream 
+gdm.i686                                                                                 1:40.1-21.el9.alma.1                           appstream 
+gdm.x86_64                                                                               1:40.1-21.el9.alma.1                           appstream 
 geany.x86_64                                                                             2.0-1.el9                                      epel      
 geany-devel.x86_64                                                                       2.0-1.el9                                      epel      
 geany-libgeany.x86_64                                                                    2.0-1.el9                                      epel      
