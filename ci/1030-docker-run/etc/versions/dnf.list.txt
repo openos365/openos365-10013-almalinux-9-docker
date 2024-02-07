@@ -11961,10 +11961,10 @@ orocos-kdl-doc.noarch                                                           
 ortp.x86_64                                                                              3:5.2.45-1.el9                                 epel      
 ortp-devel.x86_64                                                                        3:5.2.45-1.el9                                 epel      
 osbuild.noarch                                                                           93-1.el9.alma.1                                appstream 
-osbuild-composer.x86_64                                                                  88.3-1.el9_3.alma.1                            appstream 
-osbuild-composer-core.x86_64                                                             88.3-1.el9_3.alma.1                            appstream 
-osbuild-composer-dnf-json.x86_64                                                         88.3-1.el9_3.alma.1                            appstream 
-osbuild-composer-worker.x86_64                                                           88.3-1.el9_3.alma.1                            appstream 
+osbuild-composer.x86_64                                                                  88.3-1.el9_3.alma.2                            appstream 
+osbuild-composer-core.x86_64                                                             88.3-1.el9_3.alma.2                            appstream 
+osbuild-composer-dnf-json.x86_64                                                         88.3-1.el9_3.alma.2                            appstream 
+osbuild-composer-worker.x86_64                                                           88.3-1.el9_3.alma.2                            appstream 
 osbuild-luks2.noarch                                                                     93-1.el9.alma.1                                appstream 
 osbuild-lvm2.noarch                                                                      93-1.el9.alma.1                                appstream 
 osbuild-ostree.noarch                                                                    93-1.el9.alma.1                                appstream 
