@@ -5816,9 +5816,9 @@ gi-docgen-fonts.noarch                                                          
 giflib.i686                                                                              5.2.1-9.el9                                    appstream 
 gifsicle.x86_64                                                                          1.93-1.el9                                     epel      
 gifview.x86_64                                                                           1.93-1.el9                                     epel      
-gimp.x86_64                                                                              2:2.99.8-3.el9                                 appstream 
-gimp-libs.i686                                                                           2:2.99.8-3.el9                                 appstream 
-gimp-libs.x86_64                                                                         2:2.99.8-3.el9                                 appstream 
+gimp.x86_64                                                                              2:2.99.8-4.el9_3                               appstream 
+gimp-libs.i686                                                                           2:2.99.8-4.el9_3                               appstream 
+gimp-libs.x86_64                                                                         2:2.99.8-4.el9_3                               appstream 
 girara.x86_64                                                                            0.4.0-1.el9                                    epel      
 girara-devel.x86_64                                                                      0.4.0-1.el9                                    epel      
 git-all.noarch                                                                           2.39.3-1.el9_2                                 appstream 
@@ -10959,7 +10959,7 @@ mg.x86_64                                                                       
 mhash.x86_64                                                                             0.9.9.9-25.el9                                 epel      
 mhash-devel.x86_64                                                                       0.9.9.9-25.el9                                 epel      
 mhonarc.noarch                                                                           2.6.24-6.el9                                   epel      
-microcode_ctl.noarch                                                                     4:20230808-2.el9                               baseos    
+microcode_ctl.noarch                                                                     4:20230808-2.20231009.1.el9_3                  baseos    
 micropipenv.noarch                                                                       1.0.2-5.el9                                    appstream 
 milter-greylist.x86_64                                                                   4.6.4-1.el9                                    epel      
 milter-regex.x86_64                                                                      2.7-1.el9                                      epel      
@@ -25726,6 +25726,8 @@ twolame-libs.x86_64                                                             
 txt2man.noarch                                                                           1.7.1-1.el9                                    epel      
 txt2regex.noarch                                                                         0.9-5.el9                                      epel      
 typescript.noarch                                                                        4.8.4-2.el9                                    epel      
+tzdata.noarch                                                                            2024a-1.el9                                    baseos    
+tzdata-java.noarch                                                                       2024a-1.el9                                    appstream 
 uARMSolver.x86_64                                                                        0.2.6-1.el9                                    epel      
 uClibc-devel.x86_64                                                                      0.9.33.2-25.el9                                epel      
 uberftp.x86_64                                                                           2.9.1-1.el9                                    epel      
