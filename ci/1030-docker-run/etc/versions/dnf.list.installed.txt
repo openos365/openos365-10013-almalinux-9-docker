@@ -769,8 +769,8 @@ rtkit.x86_64                                0.11-28.el9                      @ap
 rust-srpm-macros.noarch                     17-4.el9                         @appstream
 screen.x86_64                               4.8.0-6.el9                      @epel     
 sed.x86_64                                  4.8-9.el9                        @baseos   
-selinux-policy.noarch                       38.1.23-1.el9_3.1                @baseos   
-selinux-policy-targeted.noarch              38.1.23-1.el9_3.1                @baseos   
+selinux-policy.noarch                       38.1.23-1.el9_3.2                @baseos   
+selinux-policy-targeted.noarch              38.1.23-1.el9_3.2                @baseos   
 setup.noarch                                2.13.7-9.el9                     @baseos   
 sgml-common.noarch                          0.6.3-58.el9                     @appstream
 shadow-utils.x86_64                         2:4.9-8.el9                      @baseos   
